@@ -3,3 +3,5 @@ opencv-python-headless
 ultralytics
 pandas
 numpy
+streamlit-webrtc
+av
